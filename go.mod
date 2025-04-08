@@ -1,4 +1,4 @@
-module github.com/ad3n/prefork
+module github.com/ad3n/gin-prefork
 
 go 1.24.2
 
